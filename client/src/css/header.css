@@ -1,0 +1,48 @@
+.navbar {
+  box-shadow: 0 0 15px #000000;
+  background-color: rgba(71, 133, 232, 1);
+  padding: 0;
+}
+
+div.nav-positioning {
+  justify-content: flex-end;
+}
+.navbar-brand {
+  padding: 0.5rem 1rem;
+  color: white !important;
+  font-size: 1.8rem;
+}
+
+li.nav-item.google-link {
+  padding: 20px;
+  font-size: 1rem;
+}
+li.nav-item.google-link a.nav-link {
+  color: white;
+}
+li.nav-item.google-link:hover {
+  background-color: rgba(119, 161, 229, 1);
+}
+
+li.nav-item.google-link a:hover {
+  color: white !important;
+}
+
+.navbar-nav {
+  flex-direction: row;
+}
+
+li.nav-item.stripe-link {
+  padding: 20px;
+}
+
+a.nav-link.logout {
+  display: block;
+}
+
+.btn {
+  margin-top: 20%;
+}
+a.nav-link.logout {
+  margin: auto;
+}

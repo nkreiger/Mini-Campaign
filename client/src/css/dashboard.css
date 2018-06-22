@@ -1,0 +1,30 @@
+.add-survey-btn {
+  border: 5px solid red;
+  border-radius: 100%;
+  height: 80px;
+  width: 80px;
+  display: flex;
+  position: fixed;
+  right: 10px;
+  bottom: 30px;
+  text-align: center;
+}
+
+.add-btn-plus {
+  display: block;
+  margin: auto;
+}
+
+.card {
+  background-color: lightblue;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  box-shadow: 10px 10px 40px #000000;
+}
+
+.choices {
+  padding: 20px;
+}
+.choices a {
+  float: right;
+}

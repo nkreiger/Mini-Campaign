@@ -1,0 +1,39 @@
+.survey-text-input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid blue;
+  outline: none;
+  height: 3rem;
+  font-size: 16px;
+  margin: 0 0 8px 0;
+  padding: 0;
+  box-shadow: none;
+  box-sizing: content-box;
+  transition: box-shadow 0.3s, border 0.3s, -webkit-box-shadow 0.3s;
+  text-rendering: auto;
+  color: initial;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  margin: 0em;
+  width: 100%;
+}
+
+div.survey-one,
+div.survey-review {
+  margin-top: 15px;
+}
+
+form {
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+.survey-next,
+.survey-review {
+  float: right;
+}

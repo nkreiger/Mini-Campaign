@@ -1,0 +1,14 @@
+.footer-row-text {
+  justify-content: center;
+}
+
+.footer-text {
+  font-style: bold;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.footer {
+  /* background-color: rgb(179, 202, 239); */
+  padding: 20px;
+}

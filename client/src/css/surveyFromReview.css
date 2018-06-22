@@ -1,0 +1,18 @@
+div.survey-review {
+  float: none;
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.btn {
+  margin-top: 35px;
+}
+.btn-primary {
+  float: right;
+}
+
+.survey-review-form,
+.survey-review-content,
+.survey-review-label {
+  padding: 20px;
+}

@@ -1,0 +1,15 @@
+.landing-header {
+  padding: 50px;
+  padding-top: 200px;
+  text-align: center;
+}
+.landing-text {
+  padding: 100px;
+  padding-top: 50px;
+  text-align: center;
+  padding-bottom: 200px;
+}
+
+#root {
+  background-color: rgb(147, 186, 249);
+}
