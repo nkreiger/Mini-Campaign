@@ -1,3 +1,47 @@
+
+
+
+
+This is another of my big projects called Mini-Campaign. It showcases my ability to work more with redux-forms, and adds in elements that were not seen in previous projects.
+In this coding masterpiece I work with Google OAuth, Stripe payments, and the Send Grid API. Basically, it allows you to send large survey emails to as many people as you want using the SendGrid API. Because i have to pay...the feedback from the surveys (WebHook data) is not hooked up. Mayber in the future I will hook it up, however, you can receive feedback from your surveys.
+
+This Web Application is currently hosted on Heroku:
+https://ancient-plateau-92232.herokuapp.com/ ... check it out
+
+Best regards,
+Noah Kreiger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## HTTP is stateless, which is why we need redux to keep the state, for example to know that a user is still logged in
 
 ## MongoDB Storage
